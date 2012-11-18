@@ -1,1 +1,3 @@
 networkx==1.2
+numpy
+matplotlib

@@ -3,5 +3,7 @@ build
 share
 Include
 Lib
+tcl/
+*png
 *pyc
 *swp
